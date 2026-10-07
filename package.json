@@ -1,0 +1,1 @@
+{"name":"moneyflow-web","version":"2.0.0","private":true,"scripts":{"start":"npx serve ."},"dependencies":{"@supabase/supabase-js":"^2.57.0"},"devDependencies":{}}
